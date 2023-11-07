@@ -1,4 +1,4 @@
-# siteweb.github.io
+# siteweb
 # Site web pour gérer des dossiers santé
 
 Page de connexion pour le dossier d’un patient ou des dossiers du médecin
